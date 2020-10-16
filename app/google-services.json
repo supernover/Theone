@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "246513621959",
+    "firebase_url": "https://akazi-89934.firebaseio.com",
+    "project_id": "akazi-89934",
+    "storage_bucket": "akazi-89934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246513621959:android:31d9914c3d30a681a8d7e2",
+        "android_client_info": {
+          "package_name": "com.example.theone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246513621959-seaijlakn2uo3lhkd0fnt3n2jnmbpu64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theone",
+            "certificate_hash": "f9c74958e4e17d1b87e7836c28d142d0a0930ec3"
+          }
+        },
+        {
+          "client_id": "246513621959-770ds9ku3m2ve08vi5vdgtqda2blsqoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpjdsSFN92bb1q2rBaDD3kOPJRR-L0iww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246513621959-770ds9ku3m2ve08vi5vdgtqda2blsqoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
